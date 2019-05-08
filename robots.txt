@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lunanguwae.neuroengineering.blog/sitemap.xml
